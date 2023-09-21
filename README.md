@@ -1,1 +1,1 @@
-# Maven_Jdbc_Practice
+# Maven_Jdbc
